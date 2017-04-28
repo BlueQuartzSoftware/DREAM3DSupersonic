@@ -1,0 +1,45 @@
+[submodule "DREAM3D"]
+	path = DREAM3D
+	url = ssh://git@github.com/bluequartzsoftware/dream3d
+[submodule "CMP"]
+	path = CMP
+	url = ssh://git@github.com/bluequartzsoftware/CMP
+[submodule "SIMPL"]
+	path = SIMPL
+	url = ssh://git@github.com/bluequartzsoftware/SIMPL
+[submodule "SIMPLView"]
+	path = SIMPLView
+	url = ssh://git@github.com/bluequartzsoftware/SIMPLView
+[submodule "Plugins/ITKImageProcessing"]
+	path = Plugins/ITKImageProcessing
+	url = ssh://git@github.com/bluequartzsoftware/ITKImageProcessing
+[submodule "Plugins/Anisotropy"]
+	path = Plugins/Anisotropy
+	url = ssh://git@github.com/dream3d/Anisotropy
+[submodule "Plugins/CellularAutomata"]
+	path = Plugins/CellularAutomata
+	url = ssh://git@github.com/dream3d/CellularAutomata
+[submodule "Plugins/DDDAnalysisToolbox"]
+	path = Plugins/DDDAnalysisToolbox
+	url = ssh://git@github.com/dream3d/DDDAnalysisToolbox
+[submodule "Plugins/FiberToolbox"]
+	path = Plugins/FiberToolbox
+	url = ssh://git@github.com/dream3d/FiberToolbox
+[submodule "Plugins/HEDMAnalysis"]
+	path = Plugins/HEDMAnalysis
+	url = ssh://git@github.com/dream3d/HEDMAnalysis
+[submodule "Plugins/ImageProcessing"]
+	path = Plugins/ImageProcessing
+	url = ssh://git@github.com/dream3d/ImageProcessing
+[submodule "Plugins/MASSIFUtilities"]
+	path = Plugins/MASSIFUtilities
+	url = ssh://git@github.com/dream3d/MASSIFUtilities
+[submodule "Plugins/NETLIntegration"]
+	path = Plugins/NETLIntegration
+	url = ssh://git@github.com/dream3d/NETLIntegration
+[submodule "Plugins/TransformationPhase"]
+	path = Plugins/TransformationPhase
+	url = ssh://git@github.com/dream3d/TransformationPhase
+[submodule "Plugins/UCSBUtilities"]
+	path = Plugins/UCSBUtilities
+	url = ssh://git@github.com/dream3d/UCSBUtilities
