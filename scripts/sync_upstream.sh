@@ -4,7 +4,7 @@ cd ../
 cd DREAM3D
 git pull --rebase origin develop
 
-cd ExternalProjects/CMP
+cd ../CMP
 git pull --rebase origin develop
 
 cd ../SIMPL
@@ -16,5 +16,5 @@ git pull --rebase origin develop
 cd ../Plugins/ITKImageProcessing
 git pull --rebase origin develop
 
-cd ../../../
+cd ../../
 git status
