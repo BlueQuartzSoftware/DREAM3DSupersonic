@@ -34,9 +34,6 @@
 [submodule "Plugins/MASSIFUtilities"]
 	path = Plugins/MASSIFUtilities
 	url = ssh://git@github.com/dream3d/MASSIFUtilities
-[submodule "Plugins/NETLIntegration"]
-	path = Plugins/NETLIntegration
-	url = ssh://git@github.com/dream3d/NETLIntegration
 [submodule "Plugins/TransformationPhase"]
 	path = Plugins/TransformationPhase
 	url = ssh://git@github.com/dream3d/TransformationPhase
