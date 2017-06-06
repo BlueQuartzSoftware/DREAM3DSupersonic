@@ -43,3 +43,6 @@
 [submodule "Plugins/UCSBUtilities"]
 	path = Plugins/UCSBUtilities
 	url = ssh://git@github.com/dream3d/UCSBUtilities
+[submodule "Plugins/DREAM3DReview"]
+	path = Plugins/DREAM3DReview
+	url = ssh://git@github.com/dream3d/DREAM3DReview
