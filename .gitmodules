@@ -1,45 +1,60 @@
 [submodule "DREAM3D"]
 	path = DREAM3D
 	url = ssh://git@github.com/bluequartzsoftware/dream3d
+	branch = develop
 [submodule "CMP"]
 	path = CMP
 	url = ssh://git@github.com/bluequartzsoftware/CMP
+	branch = develop
 [submodule "SIMPL"]
 	path = SIMPL
 	url = ssh://git@github.com/bluequartzsoftware/SIMPL
+	branch = develop
 [submodule "SIMPLView"]
 	path = SIMPLView
 	url = ssh://git@github.com/bluequartzsoftware/SIMPLView
+	branch = develop
 [submodule "Plugins/ITKImageProcessing"]
 	path = Plugins/ITKImageProcessing
 	url = ssh://git@github.com/bluequartzsoftware/ITKImageProcessing
+	branch = develop
 [submodule "Plugins/Anisotropy"]
 	path = Plugins/Anisotropy
 	url = ssh://git@github.com/dream3d/Anisotropy
+	branch = develop
 [submodule "Plugins/CellularAutomata"]
 	path = Plugins/CellularAutomata
 	url = ssh://git@github.com/dream3d/CellularAutomata
+	branch = develop
 [submodule "Plugins/DDDAnalysisToolbox"]
 	path = Plugins/DDDAnalysisToolbox
 	url = ssh://git@github.com/dream3d/DDDAnalysisToolbox
+	branch = develop
 [submodule "Plugins/FiberToolbox"]
 	path = Plugins/FiberToolbox
 	url = ssh://git@github.com/dream3d/FiberToolbox
+	branch = develop
 [submodule "Plugins/HEDMAnalysis"]
 	path = Plugins/HEDMAnalysis
 	url = ssh://git@github.com/dream3d/HEDMAnalysis
+	branch = develop
 [submodule "Plugins/ImageProcessing"]
 	path = Plugins/ImageProcessing
 	url = ssh://git@github.com/dream3d/ImageProcessing
+	branch = develop
 [submodule "Plugins/MASSIFUtilities"]
 	path = Plugins/MASSIFUtilities
 	url = ssh://git@github.com/dream3d/MASSIFUtilities
+	branch = develop
 [submodule "Plugins/TransformationPhase"]
 	path = Plugins/TransformationPhase
 	url = ssh://git@github.com/dream3d/TransformationPhase
+	branch = develop
 [submodule "Plugins/UCSBUtilities"]
 	path = Plugins/UCSBUtilities
 	url = ssh://git@github.com/dream3d/UCSBUtilities
+	branch = develop
 [submodule "Plugins/DREAM3DReview"]
 	path = Plugins/DREAM3DReview
 	url = ssh://git@github.com/dream3d/DREAM3DReview
+	branch = develop
