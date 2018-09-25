@@ -14,25 +14,13 @@
 	path = SIMPLView
 	url = ssh://git@github.com/bluequartzsoftware/SIMPLView
 	branch = develop
-[submodule "Plugins/ITKImageProcessing"]
-	path = Plugins/ITKImageProcessing
-	url = ssh://git@github.com/bluequartzsoftware/ITKImageProcessing
-	branch = develop
 [submodule "Plugins/Anisotropy"]
 	path = Plugins/Anisotropy
 	url = ssh://git@github.com/dream3d/Anisotropy
 	branch = develop
-[submodule "Plugins/CellularAutomata"]
-	path = Plugins/CellularAutomata
-	url = ssh://git@github.com/dream3d/CellularAutomata
-	branch = develop
 [submodule "Plugins/DDDAnalysisToolbox"]
 	path = Plugins/DDDAnalysisToolbox
 	url = ssh://git@github.com/dream3d/DDDAnalysisToolbox
-	branch = develop
-[submodule "Plugins/FiberToolbox"]
-	path = Plugins/FiberToolbox
-	url = ssh://git@github.com/dream3d/FiberToolbox
 	branch = develop
 [submodule "Plugins/HEDMAnalysis"]
 	path = Plugins/HEDMAnalysis
@@ -41,6 +29,10 @@
 [submodule "Plugins/ImageProcessing"]
 	path = Plugins/ImageProcessing
 	url = ssh://git@github.com/dream3d/ImageProcessing
+	branch = develop
+[submodule "Plugins/ITKImageProcessing"]
+	path = Plugins/ITKImageProcessing
+	url = ssh://git@github.com/bluequartzsoftware/ITKImageProcessing
 	branch = develop
 [submodule "Plugins/MASSIFUtilities"]
 	path = Plugins/MASSIFUtilities
